@@ -1,0 +1,31 @@
+body{
+    background: turquoise;
+    font: normal 18pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section{
+    width: 580px;
+    padding: 10px;
+    border-radius: 30px;
+    background: blue;
+    color: white;
+    margin: auto;
+    text-align: left;
+}
+
+select#flista{
+    width: 150px;
+}
+
+footer{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
